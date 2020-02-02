@@ -56,6 +56,7 @@
         </div>
         <div class="col-sm-9 py-3" id="content">
             <section id="logoff-content">
+                <img src="img/logo.png" width="400" class="rounded mx-auto d-block" alt="Flyinc Group">
                 <h5 class="text-center">Du musst dich zuerst einloggen um auf die
                     <br>Seite zugreifen zu können.
                 </h5>
